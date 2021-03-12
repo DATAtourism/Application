@@ -605,7 +605,7 @@ def main():
 		st.image(image, use_column_width = True, output_format = 'PNG')
 
 
-		mdp = st.text_input("Mot de passe ?")
+		mdp = st.text_input("Mot de passe ?", type="password")
 
 
 		st.write()
