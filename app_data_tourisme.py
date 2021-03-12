@@ -174,7 +174,7 @@ def main():
    		   st.markdown("")
 
 		with col2:
-			st.markdown("DATAtourisme est un dispositif national visant à faciliter l’accès aux données publiques d’information touristique produites à travers les territoires par les offices de tourisme et les comités départements ou régionaux du tourisme. Il se matérialise par une plateforme de collecte, de normalisation et de diffusion de données en open data, directement reliée aux bases de données territoriales, et repose sur l’animation d’une communauté d’utilisateurs. Le dispositif est copiloté par la Direction générale des entreprises et la fédération ADN Tourisme. Les données collectées sont relatives au recensement de l’ensemble des événements et points d’intérêt touristiques de France (musées, monuments, sites naturels, activités, itinéraires, expos et concerts, etc)", unsafe_allow_html=True)   
+			st.markdown("**DATAtourisme** est un dispositif national visant à **faciliter l’accès aux données publiques d’information touristique** produites à travers les territoires par les offices de tourisme et les comités départements ou régionaux du tourisme. Il se matérialise par une plateforme de collecte, de normalisation et de diffusion de données en open data, directement reliée aux bases de données territoriales, et repose sur l’animation d’une communauté d’utilisateurs. Le dispositif est **copiloté par** la **Direction générale des entreprises** et la **fédération ADN Tourisme**. Les données collectées sont relatives au recensement de l’ensemble des événements et points d’intérêt touristiques de France (musées, monuments, sites naturels, activités, itinéraires, expos et concerts, etc)", unsafe_allow_html=True)   
 
 
 		with col3:
@@ -201,7 +201,7 @@ def main():
    		   st.markdown("")
 
 		with col2:
-			st.markdown("A propos de ce projet : Dans le cadre de notre formation professionnelle de Data Analyst, notre équipe de 5 s'est alliée à ADN Tourisme pour proposer un état des lieux, à jour, du projet DATAtourisme, ce qui n'existait pas jusqu'alors.", unsafe_allow_html=True)   
+			st.markdown("Dans le cadre de notre formation professionnelle de Data Analyst, **notre équipe** de 5 s'est alliée à **ADN Tourisme** pour proposer un **état des lieux** constamment à jour du **projet DATAtourisme** (qualité, quantité, points d'amélioration), ce qui n'existait pas jusqu'alors. Notre script effectue un **travail important en amont** pour récupérer, nettoyer et constuire la donnée présentée ici.", unsafe_allow_html=True)   
 
 		with col3:
 			st.markdown("")   		   
